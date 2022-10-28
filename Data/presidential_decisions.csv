@@ -1,0 +1,24 @@
+id,type,text,popularity_change,strength_change,cost,monthly_cost
+d001,please_group,"Make army chief 'vice-president'","[Army, 4], [Peasants, -1], [Landowners, -1], [SPolice, -1]","[Army, 1], [Guerillas, -1], [SPolice, -1]",0,0
+d002,please_group,"Set up free clinics for workers","","",0,0
+d003,please_group,"Give landowners regional powers","","",0,0
+d004,please_group,"Sell American arms to Leftoto","","",0,0
+d005,please_group,"Sell mining rights to U.S. firm","","",0,0
+d006,please_group,"Rent the Russians a naval base","","",0,0
+
+d007,please_everyone,"Decrease general taxation level","","",0,0
+d008,please_everyone,"Stage a big popularity campaign","","",0,0
+d009,please_everyone,"Cut S.Police powers completely","","",0,0
+
+d010,improve_chances,"Increase S.Police powers a lot","","",0,0
+d011,improve_chances_,"Increase your bodyguard","","",0,0
+d012,improve_chances,"Buy an escape helicopter","","",0,0
+d013,improve_chances_,"See to your Swiss bank account","","",0,0
+
+d014,raise_cash,"Ask the Russians for a 'loan'","","",0,0
+d015,raise_cash,"Ask Americans for foreign 'aid'","","",0,0
+d016,raise_cash,"Nationalize Leftotans businesses","","",0,0
+
+d017,strengthen_group,"Buy heavy artillery for the army","","",0,0
+d018,strengthen_group,"Allow peasants free movement","","",0,0
+d019,strengthen_group,"Allow landowners private militia","","",0,0

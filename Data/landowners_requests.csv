@@ -1,0 +1,9 @@
+id,text,popularity_change,strength_change,cost,monthly_cost
+l001,"Build a large irrigation system","Landowners, 3 | Peasants, 1 | Army, 1 | Leftotans, -3 | Americans, 1 | Russians, 2","Landowners, 3 | Leftotans, -2",-120000,10000
+l002,"Release troops to work the land","Landowners, 3 | Army, -2","Landowners, 1 | Army, -1 | Peasants, -1 | Guerillas, 1",0,0
+l003,"Levy duty on all Leftoto imports","Landowners, 3 | Leftotans, -3 | Russians, -2","Peasants, 1 | Landowners, 2 | Leftotans, -1",0,-5000
+l004,"Nationalize American businesses","Landowners, 3 | Leftotans, 1 | Russians, 2 | Americans, -4","Landowners, 1",100000,5000
+l005,"Stop military use of their land","Landowners, 3 | Army, -2","Army, -1",0,0
+l006,"Lower the basic minimum wage","Landowners, 4 | Peasants, -4 | Leftotans, -1 | Russians, -1","Peasants, -2 | Landowners, 2 | Guerillas, 1",0,0
+l007,"Decrease heavy land taxation","Landowners, 4","Landowners, 2",0,5000
+l008,"Cut spending on the Secret Police","Landowners, 3 | Army, 1 | Peasants, 1 | SPolice, -4","Army, 1 | Landowners, 1 | Guerillas, 1 | SPolice, -2",0,-4000

@@ -1,0 +1,8 @@
+id,text,popularity_change,strength_change,cost,monthly_cost
+p001,"Free their imprisoned leader","Peasants, 4 | Army, -1 | Landowners, -2 | Leftotans, 1 | SPolice, -1","Peasants, 2 | Landowners, -1 | Guerillas, -1",0,0
+p002,"Increase the basic minimum wage","Peasants, 4 | Landowners, -4 | Leftotans, 1","Peasants, 2 | Landowners, -1",0,0
+p003,"Stop Army sign-up coercion","Peasants, 2 | Army, -1 | Landowners, 1","Army, -1 | Guerillas, -1",0,0
+p004,"Legalize the formation of unions","Peasants, 4 | Army, 1 | Landowners, -3 | Leftotans, 1 | SPolice, -1 | Russians, 1","Peasants, 3 | Landowners, -3 | SPolice, -1",0,0
+p005,"Start a public lottery","Peasants, 3 | Landowners, -1","Guerillas, -1",0,-6000
+p006,"Cut the powers of the Secret Police","Peasants, 4 | Landowners, 2 | Army, 1 | SPolice, -4","Army, 1 | Peasants, 1 | Landowners, 1 | Guerillas, 1 | SPolice, -3",0,-3000
+p007,"Stop Leftotans immigrant workers","Peasants, 3 | Landowners, -2 | Leftotans, -2","Peasants, 2 | Landowners, -2",0,0

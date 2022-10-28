@@ -1,0 +1,9 @@
+id,text,popularity_change,strength_change
+n001,"Cuba training and arming guerillas!","","[Guerillas, 9]"
+n002,"Secret Police chief loses important files!","","[SPolice, -2]"
+n003,"Crash in bananas market!","","[Peasants, -3], [Landowners, -2]"
+n004,"New disease from South America spreading in the country!","[Peasants, -2], [Army, -1], [Landowners, -1]","[Peasants, -2], [Army, -2], [Landowners, -1]"
+n005,"Territorial dispute over border with Leftoto!","[Leftotans, -3]",""
+n006,"American low-cost travel agency organizing tours of our country!","[Americans, 1], [Russians, -1], [Leftotans, -1]","[Landowners, 1]"
+n007,"Russian diplomat visits the capital, pronunces speech to acclaming crowd!","[Americans, -1], [Russians, 1], [Leftotans, 1]",""
+n008,"Leftotan stock market crash!","","[Leftotans, -3], [Peasants, 1], [Landowners, 2]"

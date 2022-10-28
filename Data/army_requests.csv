@@ -1,0 +1,8 @@
+id,text,popularity_change,strength_change,cost,monthly_cost
+a001,"Attack guerilla bases in Leftoto","Army, 3 | Peasants, -1 | Leftotans, -4 | Russians, -1","Army, 1 | Landowners, 1 | Guerillas, -2",-80000,0
+a002,"Attack all guerilla bases","Army, 3 | Peasants, -1 | Landowners, 1 | Leftotans, -1 | Russians, -1","Army, 1 | Landowners, 1 | Guerillas, -4",-100000,0
+a003,"Introduce conscription","Army, 4 | Peasants, -3 | Landowners, -1","Army, 3 | Peasants, -2 | Landowners, -1",0,0
+a004,"Expel Russian military advisors","Army, 3 | Leftotans, -1 | Russians, -4 | Americans, 2","X",0,0
+a005,"Sack the Secret Police chief","Army, 4 | Peasants, 2 | Landowners, 1 | SPolice, -4","Army, 1 | Landowners, 1 | SPolice, -3",0,0
+a006,"Buy more arms and ammunition","Army, 4 | Peasants, -1 | Landowners, -1 | Leftotans, -1 | SPolice, -1","Army, 3 | Peasants, -1 | Landowners, -1 | Guerillas, -2 | Leftotans, -1",-120000,0
+a007,"Increase the pay of the troops","Army, 4 | Landowners, -1","Army, 2 | Peasants, 1 | Landowners, -1 | Guerillas, -1",0,5000
